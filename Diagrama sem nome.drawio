@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T22:30:56.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="B6AeVgMe8hLUuICTrLOZ" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T22:31:56.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cb3eLI6giTrATK4vMjfu" version="24.2.5" type="github">
   <diagram name="Página-1" id="rX_OChB66uoMsaLpp6ug">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,9 +6,10 @@
         <mxCell id="1" parent="0" />
         <mxCell id="JcpWMlzMwsbFCnnu0zB2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="JcpWMlzMwsbFCnnu0zB2-1" target="JcpWMlzMwsbFCnnu0zB2-12">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="240" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="60" y="720" />
-              <mxPoint x="480" y="720" />
+              <mxPoint x="80" y="760" />
+              <mxPoint x="480" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -59,8 +60,9 @@
         <mxCell id="JcpWMlzMwsbFCnnu0zB2-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.95;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JcpWMlzMwsbFCnnu0zB2-2" target="JcpWMlzMwsbFCnnu0zB2-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JcpWMlzMwsbFCnnu0zB2-15" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="JcpWMlzMwsbFCnnu0zB2-1" target="JcpWMlzMwsbFCnnu0zB2-6">
+        <mxCell id="JcpWMlzMwsbFCnnu0zB2-15" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" target="JcpWMlzMwsbFCnnu0zB2-6">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="140" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="80" y="40" />
               <mxPoint x="280" y="40" />
