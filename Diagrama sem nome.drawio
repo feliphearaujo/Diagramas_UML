@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T22:34:46.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="y1jxFYTuFdqTmAlCpg47" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T22:38:01.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="32I_sg2Ldzll2hyuJSfW" version="24.2.5" type="github">
   <diagram name="Página-1" id="rX_OChB66uoMsaLpp6ug">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxPoint x="90" y="240" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="80" y="760" />
-              <mxPoint x="480" y="760" />
+              <mxPoint x="520" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -46,13 +46,13 @@
           <mxGeometry x="100" y="490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JcpWMlzMwsbFCnnu0zB2-10" value="Manter Categoria" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="670" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JcpWMlzMwsbFCnnu0zB2-11" value="Realizar Reserva" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JcpWMlzMwsbFCnnu0zB2-12" value="Realizar Devolução" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="620" width="120" height="80" as="geometry" />
+          <mxGeometry x="460" y="585" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JcpWMlzMwsbFCnnu0zB2-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JcpWMlzMwsbFCnnu0zB2-2" target="JcpWMlzMwsbFCnnu0zB2-6">
           <mxGeometry relative="1" as="geometry" />
